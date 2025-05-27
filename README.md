@@ -1,4 +1,4 @@
-# Hi there, I'm Subham Patel! 👋
+# Hi there, I'm Subham! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/subham-m-patel/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Subhamp12)
